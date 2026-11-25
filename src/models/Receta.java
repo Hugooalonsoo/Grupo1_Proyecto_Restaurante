@@ -7,6 +7,7 @@ import java.math.BigDecimal;
 /**
  * Clase que contiene los atributos de un Receta.
  * @author Alejandro Escobedo
+ * Modificado por Ander Tamayo
  */
 public class Receta extends BaseModel{
     public static final String PROP_ID_RECETA = "PROP_ID_RECETA";
